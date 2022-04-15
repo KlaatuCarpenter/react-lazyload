@@ -1,5 +1,5 @@
 # react-lazyload
-Lazy load your Components or anything matters the performance with simple hook and browser API.  
+Lazy load your Components with simple hook and browser API.  
 
 ## Why
 Component will only be mounted when it's visible in viewport, before that a placeholder will be rendered.
