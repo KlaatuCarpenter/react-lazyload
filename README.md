@@ -2,8 +2,10 @@
 Lazy load your Components or anything matters the performance with simple hook and browser API.  
 
 ## Why
+Component will only be mounted when it's visible in viewport, before that a placeholder will be rendered.
+
 No additional DOM Nodes.  
-No additional parameters.  
+No additional parameters.
 
 ## Usage
 ```js
